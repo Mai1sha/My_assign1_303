@@ -10,4 +10,6 @@ How to run my program:
 
 8. Every time the user adds a new value, the size of my array increases by one.
 9. My functions work well with exceptions as well. There are two try-catch blocks in add_func3 and modify_func2. Whenever the user inputs an invalid value/index,it prints a message to inform the user.
-10. At the end of my program, I printed my new array.
+10. <img width="1363" alt="Screenshot 2024-02-08 at 7 38 18 PM" src="https://github.com/Mai1sha/My_assign1_303/assets/123522545/adfcea27-b59e-4acb-8dfe-e1fc1e0e4f1a">
+
+11. At the end of my program, I printed my new array.
